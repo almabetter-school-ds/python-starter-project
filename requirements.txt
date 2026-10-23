@@ -1,0 +1,2 @@
+# No third-party dependencies are needed for this beginner Git & GitHub project.
+# Python 3 standard library is sufficient.
