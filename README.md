@@ -19,8 +19,8 @@ A small Python project for AlmaBetter's **Git & GitHub Fundamentals** lesson.
 | `TASKS.md` | Classroom instructions and expected results |
 | `requirements.txt` | Third-party Python dependencies (none required) |
 | `.gitignore` | Common Python files not to track |
-| `tests/test_main.py` | Optional built-in Python checks |
-| `.github/pull_request_template.md` | Simple pull request description template |
+| `test_main.py` | Optional built-in Python checks |
+| `pull_request_template.md` | Simple pull request description template |
 
 ## Run the program
 
